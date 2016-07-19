@@ -1,0 +1,185 @@
+body {
+  background-color: #ccc; /*Sets background colour to Grey*/
+  padding:2vw; /*Adds padding around the whole webpage*/
+}
+
+header {
+  padding-top: 1vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+}
+
+section {
+  clear:left;
+  padding-top: 1vw;
+}
+
+footer {
+  width:95vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  text-align: center;
+}
+
+#pageheader {
+  background-color:blue;
+  width:80vw;
+  padding:1vw;
+  text-align:center;
+  text-transform:capitalize;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  margin-bottom: 1vw;
+  overflow: hidden;
+}
+
+#textblock {
+  background-color:red;
+  width: 80vw;
+  padding:1vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  margin-bottom: 1vw;
+}
+
+#textblock p {
+  color: yellow;
+}
+
+#textblock h3 {
+  font-size: 1em;
+  color:#E76E08;
+  text-shadow: 0 0 3px #787878;
+}
+
+#imageblock {
+  background-color:green;
+  width: 80vw;
+  padding:1vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  margin-bottom: 1vw;
+}
+
+#imageblock img {
+  display:inline-block;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  padding:1vw;
+  width:25vw;
+  Height:25vw;
+}
+
+#contactform {
+  background-color:pink;
+  width: 80vw;
+  padding:1vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  margin-bottom: 1vw;
+}
+
+#blog_container {
+  border-style: groove;
+  width: 70vw;
+  padding:1vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  margin-bottom: 1vw;
+}
+
+#blog_post_title {
+  background-color:red;
+  width: 60vw;
+  padding:1vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  text-align: center;
+}
+
+#blog_date {
+  background-color:blue;
+  width: 60vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  text-align: center;
+}
+
+#blog_post {
+  background-color:yellow;
+  width: 60vw;
+  padding:1vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  text-align: center;
+}
+
+.header-logo { /*Container for the logo in the header of the page*/
+  width:50vw;
+  float:left;
+}
+
+.main-image { /*Container for the main image on the homepage*/
+  width:95vw;
+}
+
+.socialicons { /*Controls the size and spacing of the indiviual social media icon*/
+  display:inline-block;
+  height:3vw;
+  width: 3vw;
+  padding:1vw;
+}
+
+.socialiconscontainer { /*Controls the container that the social icons sit in*/
+  display:inline;
+  float:right;
+  margin:1vw;
+}
+
+.address { /* Styles the Postal Address on Contact Page*/
+  text-indent:70px;
+}
+
+.address p {
+  margin:0px;
+}
+
+#nav { /* Floats Nav to the right of the page with padding*/
+  float:right;
+  margin:1vw;
+  display:inline;
+}
+
+#nav li {
+  float:left;
+  list-style-type:none;
+}
+
+#nav li a {
+  padding: 1vw 1vw;
+  font-weight:bold;
+  color: #000;
+  color: rgba(255,255,255,0.7);
+  text-shadow: 0 1vw 1vw rgba(0,0,0,0.5);
+  -webkit-border-radius:1vw;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+#nav li a:hover, #nav li a:focus { /* Sets the hover and focus styles for the nav*/
+  color: #fff;
+  background: rgba(255,255,255, 0.15);
+}
+
+
+@media screen and (max-width:470px) {
+   #nav li {
+    display:block;
+    width:100%;
+    margin: 0 0 0 5px;
+    list-style-type:none;
+    }
+  .socialiconscontainer { /*Controls the container that the social icons sit in*/
+    display:block;
+    width:100%;
+    }
+}
