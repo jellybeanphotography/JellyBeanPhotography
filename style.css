@@ -19,6 +19,7 @@ footer {
   padding-top: 1vw;
   padding-bottom: 1vw;
   text-align: center;
+  clear: left;
 }
 
 #pageheader {
@@ -123,6 +124,19 @@ footer {
   width:95vw;
 }
 
+.servicesiconscontainer { /*Controls the container that the services icons sit in*/
+  display:inline;
+  float:left;
+  margin:1vw;
+}
+
+.servicesicons { /*Controls the size and spacing of the indiviual services media icon*/
+  display:inline-block;
+  height:21vw;
+  width: 21vw;
+  padding:2vw;
+}
+
 .socialicons { /*Controls the size and spacing of the indiviual social media icon*/
   display:inline-block;
   height:3vw;
@@ -182,4 +196,8 @@ footer {
     display:block;
     width:100%;
     }
+    .servicesiconscontainer { /*Controls the container that the services icons sit in*/
+      display:block;
+      width:100%;
+      }
 }
