@@ -1,4 +1,4 @@
-<?php include "/partials/head.php"; ?>
+<?php require_once "/partials/head.php"; ?>
 <?php include "/partials/analytics.php"; ?>
 
 <body>
