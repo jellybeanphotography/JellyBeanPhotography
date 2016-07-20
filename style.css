@@ -34,7 +34,6 @@ footer {
 }
 
 #pageheader {
-  background-color:blue;
   width:80vw;
   padding:1vw;
   text-align:center;
@@ -46,7 +45,6 @@ footer {
 }
 
 #textblock {
-  background-color:red;
   width: 80vw;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/
@@ -55,7 +53,7 @@ footer {
 }
 
 #textblock p {
-  color: yellow;
+
 }
 
 #textblock h3 {
@@ -65,7 +63,6 @@ footer {
 }
 
 #imageblock {
-  background-color:green;
   width: 80vw;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/
@@ -83,12 +80,30 @@ footer {
 }
 
 #contactform {
-  background-color:pink;
+  display:block;
   width: 80vw;
-  padding:1vw;
+  padding: 3vw;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
-  margin-bottom: 1vw;
+  overflow-x: hidden;
+}
+
+#contactform input {
+  width:50vw;
+  margin:10px;
+  display: block;
+  border: 1px solid black;
+  vertical-align: bottom;
+}
+
+#contactform label {
+  display:block;
+}
+
+#contactform button {
+  display:block;
+  margin: 1vw;
+  font-family: inherit;
 }
 
 #blog_container {
@@ -101,7 +116,6 @@ footer {
 }
 
 #blog_post_title {
-  background-color:red;
   width: 60vw;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/
@@ -110,7 +124,6 @@ footer {
 }
 
 #blog_date {
-  background-color:blue;
   width: 60vw;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
@@ -118,7 +131,6 @@ footer {
 }
 
 #blog_post {
-  background-color:yellow;
   width: 60vw;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/

@@ -24,9 +24,9 @@
         </div>
 
         <div id="contactform">
-          <h3>Contact Form</h3>
             <form action="form_process.php" method="post" name="contact_form">
               <fieldset>
+                <h3>Contact Form</h3>
                 <label>Name:</label>
                 <input type="text" name="name" id="name" alt="name" required="true" />
                 <label>Email Address: </label>
