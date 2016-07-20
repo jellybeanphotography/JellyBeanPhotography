@@ -1,13 +1,13 @@
-<?php include "/patrials/head.php"; ?>
-<?php include "/patrials/analytics.php"; ?>
+<?php include "/partials/head.php"; ?>
+<?php include "/partials/analytics.php"; ?>
 
 <body>
-  <?php include "/patrials/header.php"; ?>
-  <?php include "/patrials/socials.php"; ?>
+  <?php include "/partials/header.php"; ?>
+  <?php include "/partials/socials.php"; ?>
 
   <section>
-    <?php include "/patrials/mainimage.php"; ?>
+    <?php include "/partials/mainimage.php"; ?>
   </section>
 
-  <?php include "/patrials/footer.php"; ?>
+  <?php include "/partials/footer.php"; ?>
 </body>
