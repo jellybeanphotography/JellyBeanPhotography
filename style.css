@@ -11,6 +11,7 @@
 body {
   background-color: #ccc; /*Sets background colour to Grey*/
   padding:2vw; /*Adds padding around the whole webpage*/
+  font-family: 'verlag';
 }
 
 header {
