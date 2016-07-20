@@ -66,11 +66,17 @@
         <div id="contactform">
           <h3>Contact Form</h3>
             <form action="form_process.php" method="post" name="contact_form">
-              Name: <input type="text" name="name" required><br/>
-              Email Address: <input type="email" name="email" required><br/>
-              Telephone Number: <input type="tel" name="tel" required><br/>
-              Enquiry: <input type="text" name="enquiry" required><br/>
-              <input type="submit" value="Submit">
+              <fieldset>
+                <label>Name:</label>
+                <input type="text" name="name" id="name" alt="name" required="true" />
+                <Email Address: </label>
+                <input type="email" name="email" id="email" alt="email" required="true" />
+                <label>Telephone Number:</label>
+                <input type="tel" name="tel" id="tel" alt="Telephone Number" required="true" />
+                <label>Enquiry:</label>
+                <input type="text" name="enquiry" id="enquiry" alt="enquiry" required="true" />
+                <input type="submit" value="Submit" id="submit">
+              </fieldset>
             </form>
         </div>
       </section>
