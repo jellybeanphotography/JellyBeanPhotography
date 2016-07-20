@@ -8,5 +8,5 @@ $to = "info@jellybeanphotography.me.uk";
 $subject = "JellyBean Photography Website Enquiry";
 
 mail ($to, $subject, $enquiry, "From: " . $name);
-header("Location: /thankyou.html"); /* Redirect Browser */
+header("Location: /thankyou.php"); /* Redirect Browser */
 exit();

@@ -75,7 +75,7 @@
                 <input type="tel" name="tel" id="tel" alt="Telephone Number" required="true" />
                 <label>Enquiry:</label>
                 <input type="text" name="enquiry" id="enquiry" alt="enquiry" required="true" />
-                <input type="submit" value="Submit" id="submit">
+                <button type="submit" value="Submit" id="submit">
               </fieldset>
             </form>
         </div>
