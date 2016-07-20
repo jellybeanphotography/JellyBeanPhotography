@@ -69,7 +69,7 @@
               <fieldset>
                 <label>Name:</label>
                 <input type="text" name="name" id="name" alt="name" required="true" />
-                <Email Address: </label>
+                <label>Email Address: </label>
                 <input type="email" name="email" id="email" alt="email" required="true" />
                 <label>Telephone Number:</label>
                 <input type="tel" name="tel" id="tel" alt="Telephone Number" required="true" />
