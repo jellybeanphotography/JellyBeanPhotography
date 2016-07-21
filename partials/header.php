@@ -1,4 +1,4 @@
-<img src="images/Logo.svg" class="header-logo" alt="JellyBean Photography Logo" tite="JellyBean Photography Logo">
+<img src="public\images/Logo.svg" class="header-logo" alt="JellyBean Photography Logo" tite="JellyBean Photography Logo">
 <div id="header-container-nav">
   <ul id="nav">
     <li><a href="index.php">Home</a></li>
