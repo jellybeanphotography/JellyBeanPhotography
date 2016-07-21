@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'verlag';
   src: url('public/fonts/verlag-book-webfont.eot?#iefix') format('embedded-opentype'),
-  url('public/fonts/verlag-book-webfont.woff') format('woff'),
-  url('public/fonts/verlag-book-webfont.ttf')  format('truetype'),
-  url('public/fonts/verlag-book-webfont.svg') format('svg');
+  url('fonts/verlag-book-webfont.woff') format('woff'),
+  url('fonts/verlag-book-webfont.ttf')  format('truetype'),
+  url('fonts/verlag-book-webfont.svg') format('svg');
   font-weight: 300;
   font-style: normal;
 }
