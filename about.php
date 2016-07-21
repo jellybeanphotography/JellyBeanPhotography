@@ -28,8 +28,8 @@
         </div>
 
         <div id="imageblock">
-          <img src="images/Scott-Taylor.jpg" alt="Scott Taylor - JellyBean Photography" title="Scott Taylor - JellyBean Photography">
-          <img src="images/Scott-Taylor_1.jpg" alt="Scott Taylor - JellyBean Photography Studio Shoot" title="Scott Taylor - JellyBean Photography Studio Shoot">
+          <img src="public/images/Scott-Taylor.jpg" alt="Scott Taylor - JellyBean Photography" title="Scott Taylor - JellyBean Photography">
+          <img src="public/images/Scott-Taylor_1.jpg" alt="Scott Taylor - JellyBean Photography Studio Shoot" title="Scott Taylor - JellyBean Photography Studio Shoot">
         </div>
       </section>
 
