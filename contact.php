@@ -27,7 +27,7 @@
             </div>
 
         <div id="contactform">
-            <form action="form_process.php" method="post" name="contact_form">
+            <form action="form_process.php" method="post" name="contact_form" id="contact_form">
               <fieldset>
                 <legend>Contact Form</legend>
                 <label for="name">Name:</label>
