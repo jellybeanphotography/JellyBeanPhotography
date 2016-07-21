@@ -219,7 +219,11 @@ fieldset legend {
 	font-size: 0.8rem;
 	margin-left: 0rem;
 	text-transform: uppercase;
-	text-align: right;
+	text-align: left;
+}
+
+fieldset label {
+	text-transform: uppercase;
 }
 
 @media screen and (max-width:470px) {
