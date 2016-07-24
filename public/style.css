@@ -62,6 +62,15 @@ footer {
   color:#E76E08;
 }
 
+#textblock h4 {
+font-family: inherit;
+}
+
+#textblock blockquote {
+  font-family: inherit;
+  font-style: italic;
+}
+
 #imageblock {
   width: 80vw;
   padding:1vw;
