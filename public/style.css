@@ -124,22 +124,12 @@ font-family: inherit;
   margin-bottom: 1vw;
 }
 
-#blog_post_title {
-  width: 60vw;
-  padding:1vw;
-  margin-right:auto; /*set right margin to center*/
-  margin-left:auto; /*set left margin to center*/
-  text-align: center;
+#blog_container h3 {
+  font-size: 1em;
+  color:#E76E08;
 }
 
-#blog_date {
-  width: 60vw;
-  margin-right:auto; /*set right margin to center*/
-  margin-left:auto; /*set left margin to center*/
-  text-align: center;
-}
-
-#blog_post {
+/#blog_post {
   width: 60vw;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/
