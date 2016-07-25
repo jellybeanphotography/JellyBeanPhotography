@@ -77,13 +77,13 @@ font-family: inherit;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
   margin-bottom: 1vw;
+  text-align: center;
 }
 
 #imageblock img {
   display:inline-block;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
-  padding:1vw;
   width:25vw;
   Height:25vw;
 }
@@ -180,6 +180,28 @@ font-family: inherit;
   margin:0px;
 }
 
+#weddingpackagescontainer {
+  width:45%;
+  float:left;
+  border: 1px solid;
+  margin:1vw;
+  padding:10px;
+  text-align:center;
+}
+
+#weddingpackagescontainer li {
+  list-style-type: none;
+}
+
+#contactus {
+padding-top: 2vw;
+text-align: center;
+}
+
+.contactusicon { /*Controls the size and spacing of the contact us icon*/
+  width:30%;
+}
+
 #nav { /* Floats Nav to the right of the page with padding*/
   float:right;
   margin:1vw;
@@ -239,5 +261,13 @@ fieldset label {
     .servicesiconscontainer { /*Controls the container that the services icons sit in*/
       display:block;
       width:100%;
+      }
+      #weddingpackagescontainer {
+        width:100%;
+        float:left;
+        border: 1px solid;
+        margin:1vw;
+        padding:10px;
+        text-align:center;
       }
 }
