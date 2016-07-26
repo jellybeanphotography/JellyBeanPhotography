@@ -143,7 +143,7 @@ font-family: inherit;
 }
 
 #portfoliocontainer {
-  width: inherit;
+  width: 80wv;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
