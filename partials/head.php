@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>JellyBean Photography - Gloucestershire Freelance Photographer</title>
+    <title>JellyBean Photography | Gloucestershire Freelance Photographer</title>
     <link rel="stylesheet" type="text/css" href="public\normalise.css" media="screen">
     <link href="https://fonts.googleapis.com/css?family=Exo+2:700" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="public\style.css" media="screen">

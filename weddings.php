@@ -56,6 +56,14 @@
             </ul>
           </div>
           <p>Throughout the whole process JellyBean Photography will offer meetings to ensure and reasure you of the whole photography process of your special day is planned to last detail and also to make plans for unforseeable occurances, weather it be the hottest day of the year the wettest day imaginable.</p>
+          <h3>What will I receive...</h3>
+          <p>So once you have chosen your desired option from above you will receive the following in both packages.</p>
+          <ul>
+            <li>All edited images on USB Memory Stick (no limits on number of images).</li>
+            <li>A unique online gallery personalised to you, you and guests can view and download the full resolution images at not extra cost (included in package).</li>
+            <li>Full permission to Print and Copy any of the images.</li>
+
+          </ul>
           <p>For more information on our wedding packages please contact using the link below:</p>
           <?php include "partials/contactus.php"; ?>
         </div>
