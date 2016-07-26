@@ -254,6 +254,18 @@ fieldset label {
 	text-transform: uppercase;
 }
 
+button,input {
+  background: rgba(255,255,255,0.25);
+  color: #777777;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  font-family: 'verlag';
+  resize: none;
+  vertical-align: bottom;
+  font-size: 1rem;
+}
+
 @media screen and (max-width:470px) {
    #nav li {
     display:block;
