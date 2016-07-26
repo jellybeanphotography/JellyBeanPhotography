@@ -51,6 +51,7 @@ footer {
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
   margin-bottom: 1vw;
+  clear:left;
 }
 
 #textblock p {
@@ -72,7 +73,7 @@ font-family: inherit;
 }
 
 #textblock ul {
-  list-style-type:none;
+  list-style-type:circle;
 }
 
 #imageblock {
@@ -185,16 +186,18 @@ font-family: inherit;
 }
 
 #weddingpackagescontainer {
-  width:45%;
+  width:40%;
+  min-width: 300px;
   float:left;
   border: 1px solid;
+  border-radius: 10px;
   margin:1vw;
   padding:10px;
   text-align:center;
 }
 
 #weddingpackagescontainer li {
-  list-style-type: none;
+list-style: none;
 }
 
 #contactus {
@@ -259,19 +262,21 @@ fieldset label {
     list-style-type:none;
     }
   .socialiconscontainer { /*Controls the container that the social icons sit in*/
-    display:block;
-    width:100%;
+    display:none; /* Hides socialiconscontainer on mobile view*/
     }
+
     .servicesiconscontainer { /*Controls the container that the services icons sit in*/
       display:block;
       width:100%;
       }
-      #weddingpackagescontainer {
-        width:100%;
-        float:left;
-        border: 1px solid;
-        margin:1vw;
-        padding:10px;
-        text-align:center;
-      }
+}
+
+@media screen and (max-width:847px) {
+  #weddingpackagescontainer {
+    width:80%;
+    float: none;
+    /*margin: 0 auto;*/
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
