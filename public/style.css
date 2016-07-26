@@ -71,6 +71,10 @@ font-family: inherit;
   font-style: italic;
 }
 
+#textblock ul {
+  list-style-type:none;
+}
+
 #imageblock {
   width: 80vw;
   padding:1vw;
@@ -129,7 +133,7 @@ font-family: inherit;
   color:#E76E08;
 }
 
-/#blog_post {
+#blog_post {
   width: 60vw;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/

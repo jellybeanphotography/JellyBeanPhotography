@@ -16,6 +16,7 @@
         </div>
         <div id="textblock">
           JellyBean Photography offers a modern and relaxed style of photography ensuring that your special day is captured to the highest possibly standard to provide memories for years to come. JellyBean Photography provide a friendly, proffesional photographer to make sure that you receive the best service to the whole process as easy as possible.
+          <h3>Packages and Pricing</h3>
           <p>We offer 2 options for your wedding day, we do this to ensure we cna offer services for all possible budgets.</p>
           <div id="weddingpackagescontainer">
             <h3>Option 1</h3>
@@ -62,9 +63,9 @@
             <li>All edited images on USB Memory Stick (no limits on number of images).</li>
             <li>A unique online gallery personalised to you, you and guests can view and download the full resolution images at not extra cost (included in package).</li>
             <li>Full permission to Print and Copy any of the images.</li>
-
           </ul>
-          <p>For more information on our wedding packages please contact using the link below:</p>
+          
+          <h4>For more information on our wedding packages please contact using the link below:</h4>
           <?php include "partials/contactus.php"; ?>
         </div>
 
