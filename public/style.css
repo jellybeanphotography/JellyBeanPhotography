@@ -103,8 +103,8 @@ font-family: inherit;
 }
 
 #contactform input {
-  width:50vw;
-  margin:10px;
+  width:70vw;
+  margin:20px 0 20px 0;
   display: block;
   border: 1px solid #787878;
   vertical-align: bottom;
@@ -140,6 +140,27 @@ font-family: inherit;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
   text-align: center;
+}
+
+#portfoliocontainer {
+  width: inherit;
+  padding:1vw;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  margin-bottom: 1vw;
+  text-align: center;
+  resize:both;
+  overflow:auto;
+}
+
+#imageholder{
+  width:inherit;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+  text-align: center;
+  margin-bottom: 10px;
+  resize:both;
+  overflow: auto;
 }
 
 .header-logo { /*Container for the logo in the header of the page*/

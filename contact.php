@@ -38,8 +38,8 @@
                 <input type="tel" name="tel" id="tel" alt="Telephone Number" required="true" />
                 <label for="enquiry">Enquiry:</label>
                 <input type="text" name="enquiry" id="enquiry" alt="enquiry" required="true" />
-                <button type="submit" value="Submit" id="submit">Submit</button>
               </fieldset>
+              <button type="submit" value="Submit" id="submit">Submit</button>
             </form>
         </div>
       </section>
