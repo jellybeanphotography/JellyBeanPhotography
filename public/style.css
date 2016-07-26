@@ -153,7 +153,7 @@ font-family: inherit;
 
 .servicesiconscontainer { /*Controls the container that the services icons sit in*/
   display:inline;
-  float:left;
+  float:none;
   margin:1vw;
 }
 
@@ -262,7 +262,9 @@ fieldset label {
     list-style-type:none;
     }
   .socialiconscontainer { /*Controls the container that the social icons sit in*/
-    display:none; /* Hides socialiconscontainer on mobile view*/
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
     }
 
     .servicesiconscontainer { /*Controls the container that the services icons sit in*/
@@ -273,9 +275,8 @@ fieldset label {
 
 @media screen and (max-width:847px) {
   #weddingpackagescontainer {
-    width:80%;
+    width:100%;
     float: none;
-    /*margin: 0 auto;*/
     margin-left: auto;
     margin-right: auto;
   }
