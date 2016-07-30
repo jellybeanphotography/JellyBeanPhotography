@@ -142,26 +142,19 @@ font-family: inherit;
   text-align: center;
 }
 
-#portfoliocontainer {
-  width: 80wv;
+#imageholder {
+  width:80vw;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
-  margin-bottom: 1vw;
-  text-align: center;
-  resize:both;
-  overflow:auto;
 }
 
-#imageholder{
-  width:inherit;
-  margin-right:auto; /*set right margin to center*/
-  margin-left:auto; /*set left margin to center*/
+#imageholder img{
+  max-width: 100%;
+  max-height: 100%;
   text-align: center;
-  margin-bottom: 10px;
-  resize:both;
-  overflow: auto;
 }
+
 
 .header-logo { /*Container for the logo in the header of the page*/
   width:50vw;
