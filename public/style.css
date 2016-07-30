@@ -147,6 +147,7 @@ font-family: inherit;
   padding:1vw;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
+  text-align: center;
 }
 
 #imageholder img{
