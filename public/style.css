@@ -16,7 +16,6 @@ body {
 }
 
 header {
-  padding-top: 1vw;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
 }
@@ -295,7 +294,6 @@ button,input {
     margin-left: auto;
     margin-right: auto;
     }
-
     .servicesiconscontainer { /*Controls the container that the services icons sit in*/
       display:block;
       width:100%;
