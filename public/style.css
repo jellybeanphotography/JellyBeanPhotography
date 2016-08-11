@@ -159,11 +159,13 @@ font-family: inherit;
 
 .header-logo { /*Container for the logo in the header of the page*/
   width:50vw;
+  height:auto;
   float:left;
 }
 
 .main-image { /*Container for the main image on the homepage*/
   width:95vw;
+  height:auto;
 }
 
 .servicesiconscontainer { /*Controls the container that the services icons sit in*/

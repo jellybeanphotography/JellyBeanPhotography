@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JellyBean Photography | Gloucestershire Freelance Photographer</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" type="text/css" href="public\normalise.css" media="screen">
     <link href="https://fonts.googleapis.com/css?family=Exo+2:700" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="public\style.css" media="screen">
