@@ -176,7 +176,7 @@ font-family: inherit;
 
 .servicesiconscontainer { /*Controls the container that the services icons sit in*/
   display:inline-block;
-  width:100%;
+  width:90%;
   float:none;
   margin:1em;
 }
@@ -292,28 +292,41 @@ button,input {
   font-size: 1rem;
 }
 
-@media screen and (max-width:847px) {
+@media screen and (max-width:347px) {
    #nav li {
     display:block;
     width:100%;
     margin: 0 0 0 5px;
     list-style-type:none;
     }
-  .socialiconscontainer { /*Controls the container that the social icons sit in*/
-    width:100%;
-    margin-left: auto;
-    margin-right: auto;
+    .header-logo { /*Container for the logo in the header of the page*/
+      width: auto;
+      height: auto;
+      max-height: 25vh;
+      max-width: 90vw;
+      float:left;
     }
-    .servicesiconscontainer { /*Controls the container that the services icons sit in*/
-      display:block;
-      width:100%;
+    .socialiconscontainer { /*Controls the container that the social icons sit in*/
+      width:90%;
+      margin-left: auto;
+      margin-right: auto;
       }
       .socialicons { /*Controls the size and spacing of the indiviual social media icon*/
         display:inline-block;
-        height:10%;
-        width: 10%;
-        padding:1em;
+        height:12%;
+        width: 12%;
+        padding:0.5em;
+        text-align: center;
       }
+      .servicesiconscontainer { /*Controls the container that the services icons sit in*/
+        display:block;
+        width:100%;
+        }
+        .servicesicons { /*Controls the size and spacing of the indiviual services media icon*/
+          display:inline-block;
+          height:20%;
+          width:20%;
+        }
 }
 
 @media screen and (max-width:893px) {
