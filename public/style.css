@@ -168,7 +168,7 @@ font-family: inherit;
 .main-image {
   display: inline-block;
   height: 70vh;
-  width: 98vw;
+  width: 100%;
   background-image: url("/public/images/main_image.jpg");
   background-size: cover;
   background-position: 70% 10%; /*setting focus point of the image 70% Horizontal. 10% Vertical(Top Right)*/
@@ -291,7 +291,7 @@ button,input {
   font-size: 1rem;
 }
 
-@media screen and (max-width:470px) {
+@media screen and (max-width:847px) {
    #nav li {
     display:block;
     width:100%;
@@ -299,7 +299,7 @@ button,input {
     list-style-type:none;
     }
   .socialiconscontainer { /*Controls the container that the social icons sit in*/
-    width:80%;
+    width:100%;
     margin-left: auto;
     margin-right: auto;
     }
@@ -307,13 +307,23 @@ button,input {
       display:block;
       width:100%;
       }
+      .socialicons { /*Controls the size and spacing of the indiviual social media icon*/
+        display:inline-block;
+        height:10%;
+        width: 10%;
+        padding:1em;
+      }
 }
 
-@media screen and (max-width:847px) {
+@media screen and (max-width:893px) {
   #weddingpackagescontainer {
     width:100%;
     float: none;
     margin-left: auto;
     margin-right: auto;
   }
+  .servicesiconscontainer { /*Controls the container that the services icons sit in*/
+    display:block;
+    width:100%;
+    }
 }
