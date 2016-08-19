@@ -10,7 +10,7 @@
 
 body {
   background-color: #ccc; /*Sets background colour to Grey*/
-  padding:2vw; /*Adds padding around the whole webpage*/
+  padding:1rem; /*Adds padding around the whole webpage*/
   font-family: 'verlag';
   color: #6b6b6b;
 }
@@ -22,34 +22,34 @@ header {
 
 section {
   clear:left;
-  padding-top: 1vw;
+  padding-top: 1em;
 }
 
 footer {
   width:95vw;
-  padding-top: 1vw;
-  padding-bottom: 1vw;
+  padding-top: 1em;
+  padding-bottom: 1em;
   text-align: center;
   clear: left;
 }
 
 #pageheader {
   width:80vw;
-  padding:1vw;
+  padding:1em;
   text-align:center;
   text-transform:capitalize;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
-  margin-bottom: 1vw;
+  margin-bottom: 1em;
   overflow: hidden;
 }
 
 #textblock {
   width: 80vw;
-  padding:1vw;
+  padding:1em;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
-  margin-bottom: 1vw;
+  margin-bottom: 1em;
   clear:left;
 }
 
@@ -77,7 +77,7 @@ font-family: inherit;
 
 #imageblock {
   width: 80vw;
-  padding:1vw;
+  padding:1em;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
   margin-bottom: 1vw;
@@ -95,7 +95,7 @@ font-family: inherit;
 #contactform {
   display:block;
   width: 80vw;
-  padding: 3vw;
+  padding: 3em;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
   overflow-x: hidden;
@@ -115,17 +115,17 @@ font-family: inherit;
 
 #contactform button {
   display:block;
-  margin: 1vw;
+  margin: 1em;
   font-family: inherit;
 }
 
 #blog_container {
   border-style: groove;
   width: 70vw;
-  padding:1vw;
+  padding:1em;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
-  margin-bottom: 1vw;
+  margin-bottom: 1em;
 }
 
 #blog_container h3 {
@@ -135,7 +135,7 @@ font-family: inherit;
 
 #blog_post {
   width: 60vw;
-  padding:1vw;
+  padding:1em;
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
   text-align: center;
@@ -143,7 +143,7 @@ font-family: inherit;
 
 #imageholder {
   width:80vw;
-  padding:1vw;
+  /*padding:1em;*/
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
   text-align: center;
@@ -153,7 +153,7 @@ font-family: inherit;
   max-width: 100%;
   max-height: 100%;
   text-align: center;
-  padding:1px;
+  padding:1em;
   border-style: groove;
 }
 
@@ -167,37 +167,38 @@ font-family: inherit;
 
 .main-image {
   display: inline-block;
-  height: 75vh;
-  width: 95vw;
+  height: 70vh;
+  width: 98vw;
   background-image: url("/public/images/main_image.jpg");
   background-size: cover;
   background-position: 70% 10%; /*setting focus point of the image 70% Horizontal. 10% Vertical(Top Right)*/
 }
 
 .servicesiconscontainer { /*Controls the container that the services icons sit in*/
-  display:inline;
+  display:inline-block;
+  width:100%;
   float:none;
-  margin:1vw;
+  margin:1em;
 }
 
 .servicesicons { /*Controls the size and spacing of the indiviual services media icon*/
   display:inline-block;
-  height:21vw;
-  width: 21vw;
-  padding:2vw;
+  height:auto;;
+  width: calc( 33% - 4em );
+  margin:2em;
 }
 
 .socialicons { /*Controls the size and spacing of the indiviual social media icon*/
   display:inline-block;
   height:3vw;
   width: 3vw;
-  padding:1vw;
+  padding:1em;
 }
 
 .socialiconscontainer { /*Controls the container that the social icons sit in*/
-  display:inline;
+  display:inline-block;
   float:right;
-  margin:1vw;
+  margin:1em;
 }
 
 .address { /* Styles the Postal Address on Contact Page*/
@@ -214,8 +215,8 @@ font-family: inherit;
   float:left;
   border: 1px solid;
   border-radius: 10px;
-  margin:1vw;
-  padding:10px;
+  margin:1em;
+  padding:2em;
   text-align:center;
 }
 
@@ -224,7 +225,7 @@ list-style: none;
 }
 
 #contactus {
-padding-top: 2vw;
+padding-top: 2em;
 text-align: center;
 }
 
@@ -234,7 +235,7 @@ text-align: center;
 
 #nav { /* Floats Nav to the right of the page with padding*/
   float:right;
-  margin:1vw;
+  margin:1em;
   display:inline;
 }
 
@@ -244,7 +245,7 @@ text-align: center;
 }
 
 #nav li a {
-  padding: 1vw 1vw;
+  padding: 1em 1em;
   font-weight:bold;
   color: #000;
   color: rgba(255,255,255,0.7);
