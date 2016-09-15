@@ -165,6 +165,23 @@ font-family: inherit;
   float:left;
 }
 
+.menu-logo {
+  max-height: 20vh;
+  max-width: 20vw;
+  padding:2em;
+}
+
+.menubutton {
+  float:right;
+  height:5vh;
+  width:5vw;
+}
+
+.menuclosebutton {
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
+}
+
 .main-image {
   display: inline-block;
   height: 70vh;
@@ -238,37 +255,28 @@ nav {
   position:absolute;
   top:0;
   right:0;
-  width:30vw;
+  width:40vw;
   height:100vh;
-  background-color:black;
+  background-color:rgba(0,0,0,0.7);
   transform: translateX(100%);
-  transition: all 1.5s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .menuactive {
   transform: translateX(0);
 }
 
-/*#nav li {
-  float:left;
+nav li {
   list-style-type:none;
+  padding:0.3em;
 }
 
-#nav li a {
-  padding: 1em 1em;
+nav li a {
   font-weight:bold;
   color: #000;
   color: rgba(255,255,255,0.7);
-  text-shadow: 0 1vw 1vw rgba(0,0,0,0.5);
   text-decoration: none;
-  -webkit-border-radius:1vw;
-  -webkit-transition: all 0.3s ease-in-out;
 }
-
-#nav li a:hover, #nav li a:focus { /* Sets the hover and focus styles for the nav
-  color: #fff;
-  background: rgba(255,255,255, 0.15);
-}*/
 
 fieldset {
 	border: 1px solid transparent;
@@ -302,7 +310,7 @@ button,input {
 }
 
 @media screen and (max-width:347px) {
-   #nav li {
+   nav li {
     display:block;
     width:100%;
     margin: 0 0 0 5px;

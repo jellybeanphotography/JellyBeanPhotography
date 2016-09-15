@@ -3,7 +3,6 @@
 
 <body>
   <?php include "partials/header.php"; ?>
-  <?php include "partials/socials.php"; ?>
 
   <section>
     <div id="pageheader">
