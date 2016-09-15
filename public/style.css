@@ -26,11 +26,17 @@ section {
 }
 
 footer {
-  padding-top: 1em;
-  padding-bottom: 1em;
   text-align: center;
   clear: left;
   background-color:#6b6b6b;
+  height:24vh;
+  width:100vw;
+}
+
+#footercontainer p {
+  padding-right: 5em;
+  margin-top: inherit;
+  margin-bottom: inherit;
 }
 
 h1 {
@@ -90,13 +96,12 @@ h5 {
 h6 {
     display: block;
     font-size: .80em;
-    margin-top: 2.33em;
-    margin-bottom: 2.33em;
+    margin-top: .33em;
+    margin-bottom: .33em;
     margin-left: 0;
     margin-right: 0;
-    font-weight: bold;
-    text-align: center;
     color: #E86F02;
+    text-align: left;
 }
 
 #pageheader {
@@ -262,6 +267,12 @@ font-family: inherit;
   margin-left:auto; /*set left margin to center*/
 }
 
+.footerimage {
+  padding-top: 1.5em;
+  width:18vw;
+  height:18vh;
+}
+
 .servicesiconscontainer { /*Controls the container that the services icons sit in*/
   display:inline-block;
   width:90%;
@@ -296,6 +307,29 @@ font-family: inherit;
 
 .address p {
   margin:0px;
+}
+
+#footercontainerleft {
+  height:10em;
+  width:15%;
+  display:inline-block;
+  overflow: hidden;
+  margin-right: 15%;
+}
+
+#footercontainermiddle {
+  height:10em;
+  width:15%;
+  display:inline-block;
+  overflow: hidden;
+  margin-right: 15%;
+}
+
+#footercontainerright {
+  height:10em;
+  width:15%;
+  display:inline-block;
+  overflow: hidden;
 }
 
 #weddingpackagescontainer {

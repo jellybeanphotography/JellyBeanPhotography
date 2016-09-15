@@ -1,3 +1,20 @@
 <footer>
-  <h6>Scott Taylor | JellyBean Photography | 47 Somergate Road, Cheltenham, Glos, GL51 0QE | info@jellybeanphotography.me.uk</h6>
+  <div id="footercontainerleft">
+    <img src="public\images/menu-logo.svg" class="footerimage">
+  </div>
+  <div id="footercontainermiddle">
+    <h6>
+      <p>JellyBean Photography
+      <P>47 Somergate Road,
+      <p>Cheltenham,
+      <p>Glos,
+      <p>GL51 0QE
+    </h6>
+  </div>
+  <div id="footercontainerright">
+    <h6>
+      <p>t: 07740 276289
+      <p>e: info@jellybeanphotography.me.uk
+    </h6>
+  </div>
 </footer>
