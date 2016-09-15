@@ -10,9 +10,9 @@
 
 body {
   background-color: #ccc; /*Sets background colour to Grey*/
-  padding:1rem; /*Adds padding around the whole webpage*/
   font-family: 'verlag';
   color: #6b6b6b;
+  overflow-x: hidden;
 }
 
 header {
@@ -26,11 +26,77 @@ section {
 }
 
 footer {
-  width:95vw;
   padding-top: 1em;
   padding-bottom: 1em;
   text-align: center;
   clear: left;
+  background-color:#6b6b6b;
+}
+
+h1 {
+  display: block;
+  font-size: 3em;
+  color: #E86F02;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px #6b6b6b;
+}
+
+h2 {
+  display: block;
+    font-size: 2em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    text-shadow: 2px 2px white;
+  }
+
+h3 {
+    display: block;
+    font-size: 1.2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+    padding:2em;
+  }
+
+h4 {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+
+h5 {
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+
+h6 {
+    display: block;
+    font-size: .80em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    text-align: center;
+    color: #E86F02;
 }
 
 #pageheader {
@@ -157,12 +223,24 @@ font-family: inherit;
   border-style: groove;
 }
 
-.header-logo { /*Container for the logo in the header of the page*/
+.logo { /*Container for the logo in the header of the page*/
+  position: absolute;
+  top:2em;
+  left:2em;
   width: auto;
   height: auto;
   max-height: 25vh;
   max-width: 50vw;
   float:left;
+}
+
+.fullscreenimage {
+  border-width: thin;
+  width:100vw;
+  height:100vh;
+  background-size: cover;
+  background-image: url("/public/images/main_image.jpg");
+  background-position: 70% 10%; /*setting focus point of the image 70% Horizontal. 10% Vertical(Top Right)*/
 }
 
 .menu-logo {
@@ -172,23 +250,16 @@ font-family: inherit;
 }
 
 .menubutton {
-  float:right;
+  position: absolute;
   height:5vh;
   width:5vw;
+  top:2em;
+  right:2em;
 }
 
 .menuclosebutton {
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
-}
-
-.main-image {
-  display: inline-block;
-  height: 70vh;
-  width: 100%;
-  background-image: url("/public/images/main_image.jpg");
-  background-size: cover;
-  background-position: 70% 10%; /*setting focus point of the image 70% Horizontal. 10% Vertical(Top Right)*/
 }
 
 .servicesiconscontainer { /*Controls the container that the services icons sit in*/
