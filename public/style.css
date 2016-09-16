@@ -130,7 +130,7 @@ h6 {
 
 #textblock h3 {
   font-size: 1em;
-  color:#E76E08;
+  color:#E86F02;
 }
 
 #textblock h4 {
@@ -201,7 +201,7 @@ font-family: inherit;
 
 #blog_container h3 {
   font-size: 1em;
-  color:#E76E08;
+  color:#E86F02;
 }
 
 #blog_post {
@@ -271,6 +271,11 @@ font-family: inherit;
   padding-top: 1.5em;
   width:18vw;
   height:18vh;
+}
+
+.footerlink {
+  text-decoration: none;
+  color:#E86F02;
 }
 
 .servicesiconscontainer { /*Controls the container that the services icons sit in*/

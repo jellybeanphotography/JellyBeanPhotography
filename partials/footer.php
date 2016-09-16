@@ -15,6 +15,8 @@
     <h6>
       <p>t: 07740 276289
       <p>e: info@jellybeanphotography.me.uk
+      <p>w: www.jellybeanphotography.me.uk
+      <p>f: <a href="https://www.facebook.com/JellyBeanPhotographer" class="footerlink" target="_blank">JellyBean Photography on Facebook</a>
     </h6>
   </div>
 </footer>
