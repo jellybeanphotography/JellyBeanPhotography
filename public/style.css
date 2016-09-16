@@ -65,12 +65,12 @@ h2 {
 
 h3 {
     display: block;
-    font-size: 1.2em;
+    font-size: 1.4em;
     margin-top: 1em;
     margin-bottom: 1em;
     margin-left: 0;
     margin-right: 0;
-    text-align: justify;
+    text-align: center;;
     padding:2em;
   }
 
@@ -265,6 +265,24 @@ font-family: inherit;
 .menuclosebutton {
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
+}
+
+.imageseperator1 {
+  border-width: thin;
+  width:100vw;
+  height:40vh;
+  background-image: url("/public/images/mainpageimages/mainpagepic1.jpg");
+  background-position: 70% 30%; /*setting focus point of the image 70% Horizontal. 30% Vertical(Top Right)*/
+  margin-bottom: 1em;
+}
+
+.imageseperator2 {
+  border-width: thin;
+  width:100vw;
+  height:40vh;
+  background-image: url("/public/images/mainpageimages/mainpagepic2.jpg");
+  background-position: 60% 45%; /*setting focus point of the image 70% Horizontal. 30% Vertical(Top Right)*/
+  margin-bottom: 1em;
 }
 
 .footerimage {
