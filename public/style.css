@@ -317,13 +317,6 @@ font-family: inherit;
   padding:1em;
 }
 
-.socialiconscontainer { /*Controls the container that the social icons sit in*/
-  display:inline-block;
-  float:right;
-  margin:1em;
-  clear:right;
-}
-
 .address { /* Styles the Postal Address on Contact Page*/
   text-indent:70px;
 }
@@ -337,7 +330,7 @@ font-family: inherit;
   width:15%;
   display:inline-block;
   overflow: hidden;
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 #footercontainermiddle {
@@ -345,12 +338,12 @@ font-family: inherit;
   width:15%;
   display:inline-block;
   overflow: hidden;
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 #footercontainerright {
   height:10em;
-  width:15%;
+  width:18%;
   display:inline-block;
   overflow: hidden;
 }
