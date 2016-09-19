@@ -1,6 +1,6 @@
 <div class="fullscreenimage">
   <img src="public\images/Logo.svg" class="logo" alt="JellyBean Photography Logo" tite="JellyBean Photography Logo">
-  <img src="public\images/threelines.png" id="open_menu" class="menubutton">
+  <img src="public\images/threelines.png" id="open_menu" class="menubutton" alt="Menu Icon">
   <nav>
     <img src="public\images/menu-logo.svg" class="menu-logo" alt="JellyBean Photography Logo" tite="JellyBean Photography Logo">
     <ul>
@@ -18,7 +18,7 @@
       <a href="https://uk.linkedin.com/in/jellybeanphotographer" target="_blank"><img src="public\images/icons/linkedinicon.svg" class="socialicons" alt="LinkedIn Icon" title="LinkedIn Icon"></a>
     </ul>
     <ul>
-      <li><img src="public\images/cross.png" id="close_menu" class="menuclosebutton"></li>
+      <li><img src="public\images/cross.png" id="close_menu" class="menuclosebutton" alt="Menu Close Button"></li>
     </ul>
   </nav>
 </div>

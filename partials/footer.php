@@ -1,6 +1,6 @@
 <footer>
   <div id="footercontainerleft">
-    <img src="public\images/menu-logo.svg" class="footerimage">
+    <img src="public\images/menu-logo.svg" class="footerimage" alt="Footer Logo">
   </div>
   <div id="footercontainermiddle">
     <h6>
