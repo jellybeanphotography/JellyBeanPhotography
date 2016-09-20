@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JellyBean Photography | Gloucestershire Freelance Photographer</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <link rel="stylesheet" type="text/css" href="public\normalise.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="public\normalise.min.css" media="screen">
     <link href="https://fonts.googleapis.com/css?family=Exo+2:700" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="public\style.min.css" media="screen">
     <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
