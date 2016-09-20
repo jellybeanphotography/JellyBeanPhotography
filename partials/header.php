@@ -17,19 +17,11 @@
       <a href="https://plus.google.com/u/0/+JellyBeanPhotography" target="_blank"><img src="public\images/icons/googleplusicon.svg" class="socialicons" alt="GooglePlus Icon" title="GooglePlus Icon"></a>
       <a href="https://uk.linkedin.com/in/jellybeanphotographer" target="_blank"><img src="public\images/icons/linkedinicon.svg" class="socialicons" alt="LinkedIn Icon" title="LinkedIn Icon"></a>
     </ul>
-    <ul>
-      <li><img src="public\images/cross.png" id="close_menu" class="menuclosebutton" alt="Menu Close Button"></li>
-    </ul>
   </nav>
 </div>
 
 <script>
   $(function() {
     $("#open_menu").click(function() { $("nav").toggleClass("menuactive");});
-  });
-</script>
-<script>
-  $(function() {
-    $("#close_menu").click(function() { $("nav").toggleClass("menuactive");});
   });
 </script>

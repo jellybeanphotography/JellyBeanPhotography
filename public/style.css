@@ -8,6 +8,10 @@
   font-style: normal;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-color: #ccc; /*Sets background colour to Grey*/
   font-family: 'verlag';
@@ -115,15 +119,6 @@ h6 {
   margin-left:auto; /*set left margin to center*/
   margin: 1em;
   clear:left;
-}
-
-#textblock h3 {
-  font-size: 1em;
-  color:#E86F02;
-}
-
-#textblock h4 {
-font-family: inherit;
 }
 
 #textblock blockquote {
@@ -244,11 +239,7 @@ font-family: inherit;
   width:5vw;
   top:2em;
   right:2em;
-}
-
-.menuclosebutton {
-  margin-right:auto; /*set right margin to center*/
-  margin-left:auto; /*set left margin to center*/
+  z-index: 100;
 }
 
 .imageseperator1 {
@@ -361,7 +352,8 @@ text-align: center;
 }
 
 nav {
-  position:absolute;
+  position:fixed;
+  display:block;
   top:0;
   right:0;
   width:40vw;
