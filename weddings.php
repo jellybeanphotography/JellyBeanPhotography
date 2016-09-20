@@ -4,65 +4,56 @@
   <?php include "partials/header.php"; ?>
 
       <section>
-        <div id="pageheader">
-          <h2>Wedding Services...</h2>
-        </div>
-        <div id="imageblock">
-          <img src="public/images/wedding/weddingimage001.jpg" alt="Ceremony Image" title="Ceremony Image">
-          <img src="public/images/wedding/weddingimage002.jpg" alt="Cake Image" title="Cake Image">
-          <img src="public/images/wedding/weddingimage003.jpg" alt="Rings Shot" title="Rings Shot">
-        </div>
-        <div id="textblock">
-          JellyBean Photography offers a modern and relaxed style of photography ensuring that your special day is captured to the highest possibly standard to provide memories for years to come. JellyBean Photography provide a friendly, proffesional photographer to make sure that you receive the best service to the whole process as easy as possible.
-          <h3>Packages and Pricing</h3>
-          <p>We offer 2 options for your wedding day, we do this to ensure we can offer services for all possible budgets.</p>
-          <div id="weddingpackagescontainer">
-            <h3>Option 1</h3>
+          <h1>Wedding Services...</h1>
+          <h2>Tailored wedding packages.</h2>
+          <div id="imageblock">
+            <img src="public/images/wedding/weddingimage001.jpg" alt="Ceremony Image" title="Ceremony Image">
+            <img src="public/images/wedding/weddingimage002.jpg" alt="Cake Image" title="Cake Image">
+            <img src="public/images/wedding/weddingimage003.jpg" alt="Rings Shot" title="Rings Shot">
+          </div>
+          <h3>JellyBean Photography offers a modern and relaxed style of photography ensuring that your special day is captured to the highest possibly standard to provide memories for years to come. JellyBean Photography provide a friendly, proffesional photographer to make sure that you receive the best service to the whole process as easy as possible.</h3>
+          <h2>Packages and Pricing</h2>
+          <h4>We offer 2 options for your wedding day, we do this to ensure we can offer services for all possible budgets.</h4>
+          <h2>Option 1</h2>
             <h4>Complete Package</h4>
             <h3>£800 (All day Coverage)</h3>
-            <p>This package includes:</p>
+            <h2>This package includes:</h2>
             <ul>
-              <li>Bridal Preperation</li>
-              <li>Groom Preperation</li>
-              <li>Ceremony</li>
-              <li>Reception Party</li>
-              <li>Group Shots</li>
-              <li>Couple Shots</li>
-              <li>Room Detail Shots</li>
-              <li>Speeches</li>
-              <li>Cake Cutting</li>
-              <li>First Dance</li>
-              <li>Evening Photography</li>
+              <li><h4>Bridal Preperation</h4></li>
+              <li><h4>Groom Preperation</h4></li>
+              <li><h4>Ceremony</h4></li>
+              <li><h4>Reception Party</h4></li>
+              <li><h4>Group Shots</h4></li>
+              <li><h4>Couple Shots</h4></li>
+              <li><h4>Room Detail Shots</h4></li>
+              <li><h4>Speeches</h4></li>
+              <li><h4>Cake Cutting</h4></li>
+              <li><h4>First Dance</h4></li>
+              <li><h4>Evening Photography</h4></li>
             </ul>
-          </div>
-          <div id="weddingpackagescontainer">
-            <h3>Option 2</h3>
-            <h4>Tailor your own Package</h4>
-            <h3>£??? (Pick the areas you want)</h3>
-            <p>Areas and their prices:</p>
+            <h2>Option 2</h2>
+            <h4>Tailor your own Package
+            £??? (Pick the areas you want)</h4>
+            <h2>Areas and their prices:</h2>
             <ul>
-              <li>Bridal Preperation - £50</li>
-              <li>Groom Preperation - £50</li>
-              <li>Ceremony - £400</li>
-              <li>Reception Party - Included in Ceremony</li>
-              <li>Group Shots - £100</li>
-              <li>Couple Shots - £100</li>
-              <li>Speeches - £80</li>
-              <li>Cake Cutting - Included in Ceremony</li>
-              <li>First Dance - £80</li>
-              <li>Evening Photography - £100</li>
-              <li> - </li>
+              <li><h4>Bridal Preperation - £50</h4></li>
+              <li><h4>Groom Preperation - £50</h4></li>
+              <li><h4>Ceremony - £400</h4></li>
+              <li><h4>Reception Party - Included in Ceremony</h4></li>
+              <li><h4>Group Shots - £100</h4></li>
+              <li><h4>Couple Shots - £100</h4></li>
+              <li><h4>Speeches - £80</h4></li>
+              <li><h4>Cake Cutting - Included in Ceremony</h4></li>
+              <li><h4>First Dance - £80</h4></li>
+              <li><h4>Evening Photography - £100</h4></li>
             </ul>
-          </div>
-        </div>
-          <div id="textblock">
-            <p>Throughout the whole process JellyBean Photography will offer meetings to ensure and reasure you of the whole photography process of your special day is planned to last detail and also to make plans for unforseeable occurances, weather it be the hottest day of the year the wettest day imaginable.</p>
-            <h3>What will I receive...</h3>
-            <p>So once you have chosen your desired option from above you will receive the following in both packages.</p>
+            <h4>Throughout the whole process JellyBean Photography will offer meetings to ensure and reasure you of the whole photography process of your special day is planned to last detail and also to make plans for unforseeable occurances, weather it be the hottest day of the year the wettest day imaginable.</h4>
+            <h2>What will I receive...</h2>
+            <h4>So once you have chosen your desired option from above you will receive the following in both packages.</h4>
             <ul>
-              <li>All edited images on USB Memory Stick (no limits on number of images).</li>
-              <li>A unique online gallery personalised to you, you and guests can view and download the full resolution images at not extra cost (included in package).</li>
-              <li>Full permission to Print and Copy any of the images.</li>
+              <li><h4>All edited images on USB Memory Stick (no limits on number of images).</h4></li>
+              <li><h4>A unique online gallery personalised to you, you and guests can view and download the full resolution images at not extra cost (included in package).</h4></li>
+              <li><h4>Full permission to Print and Copy any of the images.</h4></li>
             </ul>
 
             <h4>For more information on our wedding packages please contact using the link below:</h4>

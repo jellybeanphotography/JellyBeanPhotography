@@ -4,12 +4,12 @@
   <?php include "partials/header.php"; ?>
 
   <section>
-    <div id="pageheader">
-      <h2>Services</h2>
-    </div>
-    <div id="textblock">
-      JellyBean Photography offers a variety of photographic services, if you require a services but isnt listed below please contact us and we can discuss your requirements to find a solution.
-    </div>
+    <h1>Services</h1>
+    <h2>A list of services offered by JellyBean Photography</h2>
+    <h3>JellyBean Photography offers a variety of photographic services for every occasion from Weddings to Partys to Festivals and Events to corporate events and photography services for websites.
+      <p>If you require a services and you can't see it listed below please contact us and we can discuss your requirements to find a solution.</p>
+    </h3>
+
     <?php include "partials/servicesiconscontainer.php"; ?>
 
   </section>

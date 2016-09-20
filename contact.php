@@ -4,25 +4,18 @@
   <?php include "partials/header.php"; ?>
 
       <section>
-        <div id="pageheader">
-          <h2>contact JellyBean Photography...</h2>
-        </div>
-
-          <div id="textblock">
-            <p>To get in touch with JellyBean Photography you can e-mail us, call us or fill in the simple form below and we will get back you within 24 hours.</p>
-            <h3>Email:</h3>
-              <div class="address"><a href="info@jellybeanphotography.me.uk">info@jellybeanphotography.me.uk</a></div>
-            <h3>Phone:</h3>
-              <div class="address"><a href="tel:+447740276289">07740 276289</a></div>
-
-            <h3>Address:</h3>
-              <div class="address">
-                JellyBean Photography,
-                <p>47 Somergate Road,</p>
-                <p>Cheltenham,</p>
-                <p>GL51 0QE</p>
-              </div>
-            </div>
+        <h1>Contact JellyBean Photography...</h1>
+        <h2>Contacting us is easy</h2>
+        <h4>To get in touch with JellyBean Photography you can e-mail us, call us or fill in the simple form below and we will get back you within 24 hours.</h4>
+        <h3>Email: </h3><h4><a href="info@jellybeanphotography.me.uk">info@jellybeanphotography.me.uk</a></h4>
+        <h3>Phone:</h3><h4><a href="tel:+447740276289">07740 276289</a></h4>
+        <h3>Address:</h3>
+        <h4><div class="address">
+          JellyBean Photography,
+          <p>47 Somergate Road,</p>
+          <p>Cheltenham,</p>
+          <p>GL51 0QE</p>
+        </div></h4>
 
         <div id="contactform">
             <form action="form_process.php" method="post" name="contact_form" id="contact_form">
@@ -39,7 +32,6 @@
               </fieldset>
               <button type="submit" value="Submit" id="submit">Submit</button>
             </form>
-        </div>
       </section>
 
   <?php include "partials/footer.php"; ?>

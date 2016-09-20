@@ -4,13 +4,9 @@
   <?php include "partials/header.php"; ?>
 
       <section>
-        <div id="pageheader">
-          <h2>Thank You</h2>
-        </div>
-
-        <div id="textblock">
-          Thank you for your enquiry, JellyBean Photography will be intouch with you shorlty to help.
-        </div>
+        <h1>Thank You</h1>
+        <h2>We will be ontouch shortly.</h2>
+        <h4>Thank you for your enquiry, JellyBean Photography will be intouch with you shorlty to help.</h4>
 
       </section>
 

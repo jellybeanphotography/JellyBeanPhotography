@@ -4,10 +4,8 @@
   <?php include "partials/header.php"; ?>
 
       <section>
-        <div id="pageheader">
-          <h2>JellyBean Photography's Blog</h2>
-        </div>
-
+        <h1>JellyBean Photography's Blog</h1>
+        <h2>Follow JellyBean Photography Blog to keep Up-to-Date on all the news from JellyBean Photography</h2>
         <div id="blog_container">
           <h3>A warm welcome to the blog...</h3>
             <h4>Monday 1st June 2015</h4>
