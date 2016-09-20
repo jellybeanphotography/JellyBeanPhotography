@@ -412,7 +412,8 @@ button,input {
 
 @media screen and (max-width:665px) {
   nav {
-    position:absolute;
+    position:fixed;
+    display:block;
     top:0;
     right:0;
     width:100vw;
