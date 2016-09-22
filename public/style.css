@@ -244,7 +244,6 @@ ul {
 }
 
 .footerimage {
-  padding-top: 1.5em;
   width:auto;
   height:auto;
   background-size: contain;
@@ -281,7 +280,9 @@ ul {
   width:auto;
   display:inline-block;
   overflow: hidden;
-  margin: 1em;
+  position:absolute;
+  bottom:0;
+  Left:0;
 }
 
 #footercontainermiddle {
@@ -289,7 +290,6 @@ ul {
   width:auto;
   display:inline-block;
   overflow: hidden;
-  margin: 1em;
 }
 
 #footercontainerright {
@@ -297,7 +297,6 @@ ul {
   width:auto;
   display:inline-block;
   overflow: hidden;
-  margin: 1em;
 }
 
 #contactus {
