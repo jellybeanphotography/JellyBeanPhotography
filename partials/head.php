@@ -8,7 +8,6 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="public\normalise.min.css" media="screen">
     <link rel="stylesheet" type="text/css" href="public\style.min.css" media="screen">
-    <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
     <link rel="apple-touch-icon" sizes="57x57" href="public\images\favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="public\images\favicon/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="public\images\favicon/apple-icon-72x72.png">
@@ -30,3 +29,4 @@
     <meta name="keywords" content="photographer,photography,wedding,events,portraits,freelance,photographs,wedding photographer,wedding photography,cheltenham photographer,gloucestershire photographer,studio photography,photographic,photos,wedding packages,affordable photography,tailored packages">
     <meta name="author" content="Scott Taylor">
   </head>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>

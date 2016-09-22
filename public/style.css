@@ -35,6 +35,8 @@ footer {
   background-color:#6b6b6b;
   height:auto;
   width:100vw;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 h1 {
@@ -99,7 +101,7 @@ h6 {
     margin-left: 0;
     margin-right: 0;
     color: #E86F02;
-    text-align: left;
+    text-align: center;
 }
 
 blockquote {
@@ -275,30 +277,6 @@ ul {
   padding:1em;
 }
 
-#footercontainerleft {
-  height:auto;
-  width:auto;
-  display:inline-block;
-  overflow: hidden;
-  position:absolute;
-  bottom:0;
-  Left:0;
-}
-
-#footercontainermiddle {
-  height:auto;
-  width:auto;
-  display:inline-block;
-  overflow: hidden;
-}
-
-#footercontainerright {
-  height:auto;
-  width:auto;
-  display:inline-block;
-  overflow: hidden;
-}
-
 #contactus {
 padding: 2em;
 text-align: center;
@@ -405,30 +383,6 @@ button,input {
           overflow: hidden;
           margin-right:auto; /*set right margin to center*/
           margin-left:auto; /*set left margin to center*/
-        }
-
-        #footercontainerleft {
-          height:auto;
-          width:100vw;
-          display:inline-block;
-          overflow: hidden;
-          margin: 1em;
-        }
-
-        #footercontainermiddle {
-          height:auto;
-          width:100vw;
-          display:inline-block;
-          overflow: hidden;
-          margin: 1em;
-        }
-
-        #footercontainerright {
-          height:auto;
-          width:100vw;
-          display:inline-block;
-          overflow: hidden;
-          margin: 1em;
         }
         h6 {
             display: block;
