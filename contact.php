@@ -36,5 +36,6 @@
 
   <?php include "partials/footer.php"; ?>
   <?php include "partials/analytics.php"; ?>
+  <script type="text/javascript" src="partials/scripts.js"></script>
 </body>
 </html>
