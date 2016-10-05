@@ -64,5 +64,6 @@
 
       <?php include "partials/footer.php"; ?>
       <?php include "partials/analytics.php"; ?>
-      <script type="text/javascript" src="partials/scripts.js"></script>
+      <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+      <script type="text/javascript" src="public/scripts.js"></script>
 </body>

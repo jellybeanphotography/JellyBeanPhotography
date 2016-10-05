@@ -7,7 +7,7 @@
     <title>JellyBean Photography | Gloucestershire Freelance Photographer</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="public/normalise.min.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="public/style.min.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="public/style.css" media="screen">
     <link rel="apple-touch-icon" sizes="57x57" href="/public/images/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/public/images/favicon/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/public/images/favicon/apple-icon-72x72.png">
