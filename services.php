@@ -6,9 +6,8 @@
   <section>
     <h1>Services</h1>
     <h2>A list of services offered by JellyBean Photography</h2>
-    <h3>JellyBean Photography offers a variety of photographic services for every occasion from Weddings to Partys to Festivals and Events to corporate events and photography services for websites.
-      <p>If you require a services and you can't see it listed below please contact us and we can discuss your requirements to find a solution.</p>
-    </h3>
+    <p>JellyBean Photography offers a variety of photographic services for every occasion from Weddings to Partys to Festivals and Events to corporate events and photography services for websites.
+    If you require a services and you can't see it listed below please contact us and we can discuss your requirements to find a solution.</p>
 
     <?php include "partials/servicesiconscontainer.php"; ?>
 

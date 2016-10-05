@@ -33,7 +33,7 @@ footer {
   text-align: center;
   clear: left;
   background-color:#6b6b6b;
-  color: #E86F02; 
+  color: #E86F02;
   height:auto;
   width:100vw;
   padding-top: 2px;
@@ -270,13 +270,17 @@ ul {
   width:90%;
   float:none;
   margin:1em;
+  text-align: center;
 }
 
 .servicesicons { /*Controls the size and spacing of the indiviual services media icon*/
   display:inline-block;
-  height:auto;
+  height: 20vh;
+  width: 20vw;
+  padding:1em;
+  /*height:auto;
   width: calc( 33% - 4em );
-  margin:2em;
+  margin:2em;*/
 }
 
 #socialiconscontainer{ /*Container to hold the social media icon*/

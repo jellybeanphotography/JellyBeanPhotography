@@ -6,9 +6,9 @@
       <section>
         <h1>Portfolio</h1>
         <h2>The Portfolio of Scott Taylor at JellyBean Photography.</h2>
-        <h4>Here are a selections of images I have taken from Weddings to Events to portraits and more, no two shoots are ever the same and all these special moments are recorded for you to look back and re-experience the moments all over again.
+        <p>Here are a selections of images I have taken from Weddings to Events to portraits and more, no two shoots are ever the same and all these special moments are recorded for you to look back and re-experience the moments all over again.
             If you have liked what you have seen plese check out my <a href="about.php">About Page</a>.
-            If you have any questions about any of the areas of photography please contact us via the <a href="contact.php">Contact Page</a> and we will get back you to help get your special moment captured.</h4>
+            If you have any questions about any of the areas of photography please contact us via the <a href="contact.php">Contact Page</a> and we will get back you to help get your special moment captured.</p>
             <div id="imageholder">
               <img src="public/images/portfolio/wedding/Wedding001.jpg" alt="JellyBean Photography Portfolio Image" title="JellyBean Photography Portfolio Image">
               <img src="public/images/portfolio/wedding/Wedding002.jpg" alt="JellyBean Photography Portfolio Image" title="JellyBean Photography Portfolio Image">
