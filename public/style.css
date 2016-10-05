@@ -293,6 +293,18 @@ ul {
   padding:1em;
 }
 
+.centerdivs {
+  text-align: center;
+}
+
+.centerdivs div {
+  margin: 0 auto;
+  border:2px dotted #E86F02;
+  width: 300px;
+  padding: 1rem;
+  display: inline-block;
+}
+
 #contactus {
 padding: 2em;
 text-align: center;

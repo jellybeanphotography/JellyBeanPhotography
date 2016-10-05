@@ -14,39 +14,46 @@
           <p>JellyBean Photography offers a modern and relaxed style of photography ensuring that your special day is captured to the highest possibly standard to provide memories for years to come. JellyBean Photography provide a friendly, proffesional photographer to make sure that you receive the best service to the whole process as easy as possible.</p>
           <h3>Packages and Pricing</h3>
           <p>We offer 2 options for your wedding day, we do this to ensure we can offer services for all possible budgets.</p>
-          <h4>Option 1</h4>
-            <p>Complete Package</p>
-            <p>£800 (All day Coverage)</p>
+        <div class="centerdivs">
+          <div>
+            <h4>Option 1</h4>
+            <p>Complete Package<br>
+            £800 (All day Coverage)<br></p>
             <h5>This package includes:</h5>
-            <ul>
-              <li><p>Bridal Preperation</p></li>
-              <li><p>Groom Preperation</p></li>
-              <li><p>Ceremony</p></li>
-              <li><p>Reception Party</p></li>
-              <li><p>Group Shots</p></li>
-              <li><p>Couple Shots</p></li>
-              <li><p>Room Detail Shots</p></li>
-              <li><p>Speeches</p></li>
-              <li><p>Cake Cutting</p></li>
-              <li><p>First Dance</p></li>
-              <li><p>Evening Photography</p></li>
-            </ul>
-            <h4>Option 2</h4>
-            <p>Tailor your own Package
-            £??? (Pick the areas you want)</p>
-            <h5>Areas and their prices:</h5>
-            <ul>
-              <li><p>Bridal Preperation - £50</p></li>
-              <li><p>Groom Preperation - £50</p></li>
-              <li><p>Ceremony - £400</p></li>
-              <li><p>Reception Party - Included in Ceremony</p></li>
-              <li><p>Group Shots - £100</p></li>
-              <li><p>Couple Shots - £100</p></li>
-              <li><p>Speeches - £80</p></li>
-              <li><p>Cake Cutting - Included in Ceremony</p></li>
-              <li><p>First Dance - £80</p></li>
-              <li><p>Evening Photography - £100</p></li>
-            </ul>
+              <ul>
+                <li>Bridal Preperation</li>
+                <li>Groom Preperation</li>
+                <li>Ceremony</li>
+                <li>Reception Party</li>
+                <li>Group Shots</li>
+                <li>Couple Shots</li>
+                <li>Room Detail Shots</li>
+                <li>Speeches</li>
+                <li>Cake Cutting</li>
+                <li>First Dance</li>
+                <li>Evening Photography</li>
+              </ul>
+          </div>
+            <div>
+              <h4>Option 2</h4>
+              <p>Tailor your own Package<br>
+                £??? (Pick the areas you want)<br></p>
+                <h5>Areas and their prices:</h5>
+                <ul>
+                  <li>Bridal Preperation - £50</li>
+                  <li>Groom Preperation - £50</li>
+                  <li>Ceremony - £400</li>
+                  <li>Reception Party - Included in Ceremony</li>
+                  <li>Group Shots - £100</li>
+                  <li>Couple Shots - £100</li>
+                  <li>Speeches - £80</li>
+                  <li>Cake Cutting - Included in Ceremony</li>
+                  <li>First Dance - £80</li>
+                  <li>Evening Photography - £100</li>
+                  <li> - </li>
+                </ul>
+            </div>
+          </div>
             <p>Throughout the whole process JellyBean Photography will offer meetings to ensure and reasure you of the whole photography process of your special day is planned to last detail and also to make plans for unforseeable occurances, weather it be the hottest day of the year the wettest day imaginable.</p>
             <h2>What will I receive...</h2>
             <p>So once you have chosen your desired option from above you will receive the following in both packages.</p>

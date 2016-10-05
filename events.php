@@ -14,14 +14,18 @@
         <p>JellyBean Photography can cover all types of events from celebrations to birthday's to corporate and charity events too.</p>
           <h3>Package and Pricing</h3>
            <p>We offer a simple single package for our events service.</p>
-           <h4>Events Package</h4>
-           <p>Price includes covering the event and images
-           £150 (Per Event)</p>
-            <h5>This package includes:</h5>
-          <ul>
-            <li><p>Coverage of the event</p></li>
-            <li><p>All edited images</p></li>
-          </ul>
+           <div class="centerdivs">
+             <div>
+               <h4>Events Package</h4>
+               <p>Price includes covering the event and images
+                 £150 (Per Event)</p>
+                 <h5>This package includes:</h5>
+                 <ul>
+                   <li>Coverage of the event</li>
+                   <li>All edited images</li>
+                 </ul>
+              </div>
+            </div>
             <h2>What will I receive...</h2>
             <p>So once the event has finished we will get all the images edited and sorted then we will be intouch to arrange a meeting to present the final images to you.</p>
             <ul>

@@ -14,22 +14,26 @@
         <p>JellyBean Photography can capture fun and exciting times in the studio either indiviually or groups. I normally shoot on a white background but can accomodate black or grey backgrounds too. We can also shoot off location either at the clients home or we can shoot outdoors if client prefers.</p>
         <h3>Package and Pricing</h3>
         <p>We offer a single package for our portraiture service.</p>
-        <h4>Portrait Package</h4>
-        <p>Price includes sitting and images
-        £80 (Per Session)</p>
-        <h5>This package includes:</h5>
-        <ul>
-          <li><p>The sitting</p></li>
-          <li><p>All edited images</p></li>
-          <li><p>Each session normally takes about an hour</p></li>
-        </ul>
-          <h2>What will I receive...</h2>
-          <p>So once the shoot has finished we will get all the images edited and we will be intouch to arrange a meeting to present the final images to you.</p>
-          <ul>
-            <li><p>All edited images on USB Memory Stick.</p></li>
-            <li><p>A unique online gallery personalised to you for you and friends/family can view and download the full resolution images at not extra cost (included in package).</p></li>
-            <li><p>Full permission to Print and Copy any of the images.</p></li>
-          </ul>
+        <div class="centerdivs">
+          <div>
+            <h4>Portrait Package</h4>
+            <p>Price includes sitting and images
+              £80 (Per Session)</p>
+              <h5>This package includes:</h5>
+              <ul>
+                <li>The sitting</li>
+                <li>All edited images</li>
+                <li>Each session normally takes about an hour</li>
+              </ul>
+            </div>
+          </div>
+            <h2>What will I receive...</h2>
+            <p>So once the shoot has finished we will get all the images edited and we will be intouch to arrange a meeting to present the final images to you.</p>
+            <ul>
+              <li><p>All edited images on USB Memory Stick.</p></li>
+              <li><p>A unique online gallery personalised to you for you and friends/family can view and download the full resolution images at not extra cost (included in package).</p></li>
+              <li><p>Full permission to Print and Copy any of the images.</p></li>
+            </ul>
 
             <p>For more information oabout the portrait service please contact using the link below:</p>
             <?php include "partials/contactus.php"; ?>
