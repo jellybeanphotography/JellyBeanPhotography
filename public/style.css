@@ -33,6 +33,7 @@ footer {
   text-align: center;
   clear: left;
   background-color:#6b6b6b;
+  color: #E86F02; 
   height:auto;
   width:100vw;
   padding-top: 2px;
@@ -106,7 +107,10 @@ h6 {
 
 p {
   display:block;
-  font-size: .80em;
+  font-size: 1em;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  text-align: center;
 }
 
 blockquote {
@@ -270,15 +274,18 @@ ul {
 
 .servicesicons { /*Controls the size and spacing of the indiviual services media icon*/
   display:inline-block;
-  height:auto;;
+  height:auto;
   width: calc( 33% - 4em );
   margin:2em;
 }
 
-.socialicons { /*Controls the size and spacing of the indiviual social media icon*/
+#socialiconscontainer{ /*Container to hold the social media icon*/
   display:inline-block;
-  max-height: 5vh;
-  max-width: 5vw;
+}
+
+.socialicons { /*Controls the size and spacing of the indiviual social media icon*/
+  height: 5vh;
+  width: 5vw;
   padding:1em;
 }
 
