@@ -6,15 +6,10 @@
       <section>
         <h1>Contact JellyBean Photography...</h1>
         <h2>Contacting us is easy</h2>
-        <p>To get in touch with JellyBean Photography you can e-mail us, call us or fill in the simple form below and we will get back you within 24 hours.</p>
-        <h3>Email: </h3><p><a href="info@jellybeanphotography.me.uk">info@jellybeanphotography.me.uk</a></p>
-        <h3>Phone:</h3><p><a href="tel:+447740276289">07740 276289</a></p>
-        <h3>Address:</h3>
-          <p>JellyBean Photography,<br>
-          47 Somergate Road,<br>
-          Cheltenham,<br>
-          GL51 0QE<br>
-        </p>
+        <p>To get in touch with JellyBean Photography you can e-mail us, call us or fill in the simple form below and we will get back you within 24 hours.
+        <br><br>Email: <a href="info@jellybeanphotography.me.uk">info@jellybeanphotography.me.uk</a>
+        <br><br>Phone: <a href="tel:+447740276289">07740 276289</a>
+        <br><br>Address: JellyBean Photography,<br>47 Somergate Road,<br>Cheltenham,<br>GL51 0QE<br></p>
 
         <div id="contactform">
             <form action="form_process.php" method="post" name="contact_form" id="contact_form">

@@ -166,23 +166,6 @@ ul {
   font-family: inherit;
 }
 
-#blog_container {
-  border-style: groove;
-  width: 70vw;
-  padding:1em;
-  margin-right:auto; /*set right margin to center*/
-  margin-left:auto; /*set left margin to center*/
-  margin-bottom: 1em;
-}
-
-#blog_post {
-  width: 60vw;
-  padding:1em;
-  margin-right:auto; /*set right margin to center*/
-  margin-left:auto; /*set left margin to center*/
-  text-align: center;
-}
-
 #imageholder {
   width:80vw;
   /*padding:1em;*/
@@ -301,6 +284,28 @@ ul {
   margin: 0 auto;
   border:2px dotted #E86F02;
   width: 300px;
+  padding: 1rem;
+  display: inline-block;
+}
+
+.socialblogdivs {
+  text-align: center;
+}
+
+.socialblogdivs div {
+  margin: 0 auto;
+  width: 500px;
+  padding: 1rem;
+  display: inline-block;
+}
+
+.socialdivs {
+  text-align: center;
+}
+
+.socialdivs div {
+  margin: 0 auto;
+  width: 250px;
   padding: 1rem;
   display: inline-block;
 }
