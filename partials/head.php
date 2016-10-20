@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>JellyBean Photography | Gloucestershire Freelance Photographer</title>
+    <title>JellyBean Photography - Photographer, Weddings, Events Photographer, Portraits, Portrait Photography, Cheltenham Photographer, Gloucester Photographer, Gloucestershire Photographer, Midlands Photographer.</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="public/normalise.min.css" media="screen">
     <link rel="stylesheet" type="text/css" href="public/style.css" media="screen">
