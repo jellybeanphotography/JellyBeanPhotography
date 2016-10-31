@@ -28,4 +28,5 @@
     <meta name="description" content="Gloucestershire Freelance Photographer offering Photography services for all areas of photography">
     <meta name="keywords" content="photographer,photography,wedding,events,portraits,freelance,photographs,wedding photographer,wedding photography,cheltenham photographer,gloucestershire photographer,studio photography,photographic,photos,wedding packages,affordable photography,tailored packages">
     <meta name="author" content="Scott Taylor">
+    <?php include "partials/analytics.php"; ?>
   </head>
