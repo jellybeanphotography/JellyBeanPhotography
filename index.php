@@ -12,8 +12,13 @@
       <p>JellyBean Photography can also offer photography for corporate events, websites, events, sports events and even portraits for your business website to give it a fresh update.</p>
       <p>How about something new! We can offer a unique portrait session whether it be for your modelling portfolio or just for giggle and laugh with your friends and mates, JellyBean Photography can offer it all.</p>
       <p>Or maybe you want to be a family portrait photo for a keepsake for memories for years to come, we can offer multiple packages to help get what you are looking for.</p>
+      <h3>Social Media</h3>
       <p>Keep up to date with everything Photography at JellyBean Photography on our social media sites.</p>
-      <p><a href="https://www.facebook.com/JellyBeanPhotographer" target="_blank">Facebook</a> <a href="https://twitter.com/scottatJBP" target="_blank">Twitter</a> <a href="https://www.instagram.com/jellybeanphotography.me.uk/" target="_blank">Instagram</a></p>
+      <p><a href="https://www.facebook.com/JellyBeanPhotographer" class="footerlink" target="_blank">Facebook</a> | <a href="https://twitter.com/scottatJBP" class="footerlink" target="_blank">Twitter</a> | <a href="https://www.instagram.com/jellybeanphotography.me.uk/" class="footerlink" target="_blank">Instagram</a></p>
+      <h3>Recent Work</h3>
+      <p>Take a look at some of the recent work by JellyBean Photography</p>
+      <?php include "partials/recentworkcontainer.php"; ?>
+
     <div class="imageseperator1"></div>
     <h4>A festival covered by JellyBean Photography</h4>
     <div class="imageseperator2"></div>

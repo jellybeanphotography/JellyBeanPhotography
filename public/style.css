@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #ccc; /*Sets background colour to Grey*/
+  background-color: #000; /*Sets background colour to Black*/
   font-family: 'verlag';
   color: #6b6b6b;
   overflow-x: hidden;
@@ -32,7 +32,7 @@ section {
 footer {
   text-align: center;
   clear: left;
-  background-color:#6b6b6b;
+  background-color:#000;
   color: #E86F02;
   height:auto;
   width:100vw;
@@ -253,6 +253,14 @@ ul {
   width:90%;
   float:none;
   margin:1em;
+  text-align: center;
+}
+
+.recentworkcontainer { /*Controls the container that the recent work sit in*/
+  display:inline-block;
+  width:100%;
+  float:none;
+  padding:1em;
   text-align: center;
 }
 

@@ -1,0 +1,5 @@
+<div class="recentworkcontainer">
+  <a data-flickr-embed="true"  href="https://www.flickr.com/gp/jellybeanphotographer/8qPFAh" title="Kev &amp; Julie Vow Renewal"><img src="https://c1.staticflickr.com/8/7499/29344855764_9db57b57ea_n.jpg" width="213" height="320" alt="Kev &amp; Julie Vow Renewal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true"  href="https://www.flickr.com/gp/jellybeanphotographer/626WLa" title="Tom and Catherine&#x27;s Weddings"><img src="https://c1.staticflickr.com/9/8322/29629470885_bf914bc0e5_n.jpg" width="213" height="320" alt="Tom and Catherine&#x27;s Weddings"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/jellybeanphotographer/albums/72157676222810845" title="Tewkesbury Bonfire Night"><img src="https://c1.staticflickr.com/6/5564/30518152930_5aca9c6d7a_n.jpg" width="320" height="213" alt="Tewkesbury Bonfire Night"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
