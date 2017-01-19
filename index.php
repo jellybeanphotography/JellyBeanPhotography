@@ -5,7 +5,7 @@
 
   <section>
     <h1>Gloucestershire Freelance Photographer</h1>
-    <h2>For all your Photography Needs.</h2>
+    <h2>Weddings, Events, Corporates, Portraits Photographer.</h2>
     <h3>Looking for a photographer?</h3>
       <p>Then look no further… JellyBean Photography can provide photography services for all areas of photography. A Gloucestershire Freelance Photographer offering photography services throughout Gloucestershire area.</p>
       <p>Whether it’s your wedding day, anniversary or a special birthday celebration JellyBean Photography can help and all with tailored packages to make sure you get exactly what you’re looking for and at a price you can be happy with.</p>
