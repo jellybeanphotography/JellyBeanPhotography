@@ -168,7 +168,6 @@ ul {
 
 #imageholder {
   width:80vw;
-  /*padding:1em;*/
   margin-right:auto; /*set right margin to center*/
   margin-left:auto; /*set left margin to center*/
   text-align: center;
@@ -260,7 +259,10 @@ ul {
   display:inline-block;
   width:100%;
   float:none;
+  margin-right:auto; /*set right margin to center*/
+  margin-left:auto; /*set left margin to center*/
   padding:1em;
+  margin-bottom: 1em;
   text-align: center;
 }
 
@@ -269,9 +271,6 @@ ul {
   height: 20vh;
   width: 20vw;
   padding:1em;
-  /*height:auto;
-  width: calc( 33% - 4em );
-  margin:2em;*/
 }
 
 #socialiconscontainer{ /*Container to hold the social media icon*/
