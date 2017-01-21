@@ -12,17 +12,17 @@
       <p>JellyBean Photography can also offer photography for corporate events, websites, events, sports events and even portraits for your business website to give it a fresh update.</p>
       <p>How about something new! We can offer a unique portrait session whether it be for your modelling portfolio or just for giggle and laugh with your friends and mates, JellyBean Photography can offer it all.</p>
       <p>Or maybe you want to be a family portrait photo for a keepsake for memories for years to come, we can offer multiple packages to help get what you are looking for.</p>
+      <div class="imageseperator0"></div>
       <h3>Social Media</h3>
       <p>Keep up to date with everything Photography at JellyBean Photography on our social media sites.</p>
       <p><a href="https://www.facebook.com/JellyBeanPhotographer" class="footerlink" target="_blank">Facebook</a> | <a href="https://twitter.com/scottatJBP" class="footerlink" target="_blank">Twitter</a> | <a href="https://www.instagram.com/jellybeanphotography.me.uk/" class="footerlink" target="_blank">Instagram</a></p>
+      <div class="imageseperator1"></div>
       <h3>Recent Work</h3>
-      <p>Take a look at some of the recent work by JellyBean Photography</p>
-      <?php include "partials/recentworkcontainer.php"; ?>
-
-    <div class="imageseperator1"></div>
-    <h4>A festival covered by JellyBean Photography</h4>
+      <p>You can find more of JellyBean Photography work using the links below.</p>
+      <p>All our client's albums are created on Flickr but are made private unless they allow us to make them public. Please take some time to view some of JellyBean Photography's work.</p>
+      <p>Our Instagram link is used for our everyday photographs and to share what is going on in and around JellyBean Photography and Photography in general.</p>
+      <p><a href="https://www.flickr.com/photos/jellybeanphotographer/albums" class="footerlink" target="_blank">Flickr</a> | <a href="https://www.instagram.com/jellybeanphotography.me.uk/" class="footerlink" target="_blank">Instagram</a></p>
     <div class="imageseperator2"></div>
-    <h4>A speedway media event covered by JellyBean Photography</h4>
   </section>
 
   <?php include "partials/footer.php"; ?>

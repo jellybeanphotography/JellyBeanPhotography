@@ -217,6 +217,16 @@ ul {
   z-index: 100;
 }
 
+.imageseperator0 {
+  border-width: thin;
+  width:100vw;
+  height:40vh;
+  background-image: url("/public/images/mainpageimages/mainpagepic0.jpg");
+  background-position: 20% 70%; /*setting focus point of the image 70% Horizontal. 30% Vertical(Top Right)*/
+  margin-bottom: 1em;
+  background-size: cover;
+}
+
 .imageseperator1 {
   border-width: thin;
   width:100vw;
@@ -253,17 +263,6 @@ ul {
   width:90%;
   float:none;
   margin:1em;
-  text-align: center;
-}
-
-.recentworkcontainer { /*Controls the container that the recent work sit in*/
-  display:inline-block;
-  width:100%;
-  float:none;
-  margin-right:auto; /*set right margin to center*/
-  margin-left:auto; /*set left margin to center*/
-  padding:1em;
-  margin-bottom: 1em;
   text-align: center;
 }
 
