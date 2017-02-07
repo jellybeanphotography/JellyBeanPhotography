@@ -1,7 +1,7 @@
 <?php include "partials/head.php"; ?>
 
 <body>
-  <?php include "partials/header.php"; ?>
+  <?php include "partials/header.php";  ?>
 
       <section>
         <h1>About us...</h1>
@@ -26,9 +26,7 @@
           From the first meeting to the day you get married JellyBean Photography can offer help and support for all the little worries of types of photographs and arranging all the family for the group shots. JellyBean Photography was formed in 2015 by Scott Taylor to offer tailored wedding and photography packages to brides, grooms and clients for all areas of photography.
           Scott has 4 years photography knowledge with qualifications within Photography, Scott has first hand experience of photographing weddings, events and corporate events along with portraiture studio work.
           I have been photographing weddings both as a first and second shooter photographer giving both views of a wedding day to be able to capture all those special moments that the happy couple may not see on their special day.</p>
-        <div id="imageblock">
-          <iframe src="https://www.youtube.com/embed/FMuh_nGwopE" frameborder="0" allowfullscreen></iframe>
-        </div>
+
           <h2>What do our clients have to say about us...</h2>
           <blockquote>
             <h3>Tommy Lewis - Tommy and the Fuse</h3>
