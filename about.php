@@ -15,6 +15,10 @@
           I have worked with a couple of Cheltenham based bands that perform at weddings and also photographed for those bands at weddings and corporate events, which offers me a unique position of knowing the runnings for a wedding from multiple aspects.
           I have a beautiful family, Ami my wife and our gorgeous daughter Ellie. We got married on the 1st August 2013 in Cheltenham and we currently live in Cheltenham raising our gorgeous daughter.
           JellyBean Photography got its name from my Daughter Ellie, since she was born we nicknamed her Ellie-Jelly-Bean and as time went on it became Jelly-Moo so it was only right to name the photography business as my gorgeous daughter’s nickname and JellyBean Photography was born.</p>
+          <div id="imageblock">
+            <img src="public/images/Scott-Taylor.jpg" alt="Scott Taylor - JellyBean Photography" title="Scott Taylor - JellyBean Photography">
+            <img src="public/images/Scott-Taylor_1.jpg" alt="Scott Taylor - JellyBean Photography Studio Shoot" title="Scott Taylor - JellyBean Photography Studio Shoot">
+          </div>
           <h3>About JellyBean Photography...</h3>
           <p>JellyBean Photography is a Freelance Photography service based in Cheltenham, we offer tailored packages for all budgets for all areas of photography.
           JellyBean Photography can offer brides and grooms packages to ensure their day is captured for years of happy memories to come.
@@ -23,8 +27,7 @@
           Scott has 4 years photography knowledge with qualifications within Photography, Scott has first hand experience of photographing weddings, events and corporate events along with portraiture studio work.
           I have been photographing weddings both as a first and second shooter photographer giving both views of a wedding day to be able to capture all those special moments that the happy couple may not see on their special day.</p>
         <div id="imageblock">
-          <img src="public/images/Scott-Taylor.jpg" alt="Scott Taylor - JellyBean Photography" title="Scott Taylor - JellyBean Photography">
-          <img src="public/images/Scott-Taylor_1.jpg" alt="Scott Taylor - JellyBean Photography Studio Shoot" title="Scott Taylor - JellyBean Photography Studio Shoot">
+          <iframe src="https://www.youtube.com/embed/FMuh_nGwopE" frameborder="0" allowfullscreen></iframe>
         </div>
           <h2>What do our clients have to say about us...</h2>
           <blockquote>
