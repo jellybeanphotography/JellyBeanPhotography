@@ -4,12 +4,12 @@
   <nav>
     <img src="public/images/menu-logo.svg" class="menu-logo" alt="JellyBean Photography Logo" title="JellyBean Photography Logo">
     <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="services">Services</a></li>
-      <li><a href="portfolio">Portfolio</a></li>
-      <li><a href="about">About</a></li>
-      <li><a href="blog">Blog</a></li>
-      <li><a href="contact">Contact</a></li>
+      <li><a href="/">HOME</a></li>
+      <li><a href="services">SERVICES</a></li>
+      <li><a href="portfolio">PORTFOLIO</a></li>
+      <li><a href="about">ABOUT</a></li>
+      <li><a href="blog">BLOG</a></li>
+      <li><a href="contact">CONTACT</a></li>
     </ul>
     <div class="socialiconscontainer">
       <a href="https://www.facebook.com/JellyBeanPhotographer" target="_blank"><img src="public/images/icons/facebookicon.svg" class="socialicons" alt="Facebook Icon" title="Facebook Icon"></a>
