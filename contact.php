@@ -2,6 +2,7 @@
 
 <body>
   <?php include "partials/header.php"; ?>
+  <style>.fullscreenimage{background-image: url(/public/images/fullscreenimage/contact.jpg);}</style>
 
       <section>
         <h1>Contact JellyBean Photography...</h1>
