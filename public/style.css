@@ -175,7 +175,7 @@ blockquote {
     width: 100vw;
     height: 100vh;
     background-size: cover;
-    background-image: url(/public/images/main_image.jpg);
+    background-image: url(/public/images/fullscreenimage/main_image.jpg);
     background-position: 70% 10%
 }
 

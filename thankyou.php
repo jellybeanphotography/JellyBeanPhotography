@@ -2,10 +2,11 @@
 
 <body>
   <?php include "partials/header.php"; ?>
+  <style>.fullscreenimage{background-image: url(/public/images/fullscreenimage/thankyou.jpg);}</style>
 
       <section>
         <h1>Thank You</h1>
-        <h2>We will be ontouch shortly.</h2>
+        <h2>We will be intouch shortly.</h2>
         <h4>Thank you for your enquiry, JellyBean Photography will be intouch with you shorlty to help.</h4>
 
       </section>

@@ -1,8 +1,8 @@
 <?php include "partials/head.php"; ?>
 
 <body>
-  <?php include "partials/header.php";  ?>
-
+  <?php include "partials/header.php"; ?>
+  
       <section>
         <h1>About us...</h1>
         <h2>Get to know JellyBean Photography and Scott Taylor.</h2>
