@@ -2,6 +2,7 @@
 
 <body>
   <?php include "partials/header.php"; ?>
+  <style>.fullscreenimage{background-image: url(/public/images/fullscreenimage/wedding.jpg);}</style>
 
       <section>
           <h1>Wedding Services...</h1>
