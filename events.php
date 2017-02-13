@@ -2,6 +2,7 @@
 
 <body>
   <?php include "partials/header.php"; ?>
+  <style>.fullscreenimage{background-image: url(/public/images/fullscreenimage/events.jpg);}</style>
 
       <section>
         <h1>Events Services...</h1>
