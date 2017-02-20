@@ -2,7 +2,7 @@
 
 <body>
   <?php include "partials/header.php"; ?>
-  
+
       <section>
         <h1>About us...</h1>
         <h2>Get to know JellyBean Photography and Scott Taylor.</h2>
@@ -16,8 +16,8 @@
           I have a beautiful family, Ami my wife and our gorgeous daughter Ellie. We got married on the 1st August 2013 in Cheltenham and we currently live in Cheltenham raising our gorgeous daughter.
           JellyBean Photography got its name from my Daughter Ellie, since she was born we nicknamed her Ellie-Jelly-Bean and as time went on it became Jelly-Moo so it was only right to name the photography business as my gorgeous daughter’s nickname and JellyBean Photography was born.</p>
           <div id="imageblock">
-            <img src="public/images/Scott-Taylor.jpg" alt="Scott Taylor - JellyBean Photography" title="Scott Taylor - JellyBean Photography">
-            <img src="public/images/Scott-Taylor_1.jpg" alt="Scott Taylor - JellyBean Photography Studio Shoot" title="Scott Taylor - JellyBean Photography Studio Shoot">
+            <img src="public/images/Scott-Taylor1.jpg" alt="Scott Taylor - JellyBean Photography" title="Scott Taylor - JellyBean Photography">
+            <img src="public/images/Scott-Taylor2.jpg" alt="Scott Taylor - JellyBean Photography Studio Shoot" title="Scott Taylor - JellyBean Photography Studio Shoot">
           </div>
           <h3>About JellyBean Photography...</h3>
           <p>JellyBean Photography is a Freelance Photography service based in Cheltenham, we offer tailored packages for all budgets for all areas of photography.

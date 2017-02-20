@@ -6,11 +6,11 @@
 
       <section>
       <h1>Portraits Services...</h1>
-      <h2>Family, Single, Pets.</h2>
+      <h2>Family, Solo and Pets Portraits.</h2>
       <div id="imageblock">
-        <img src="public/images/portraits/portraitsimage001.jpg" alt="Studio Portrait Shoot" title="Studio Portrait Shoot">
-        <img src="public/images/portraits/portraitsimage002.jpg" alt="Bridal Studio Shoot" title="Bridal Studio Shoot">
-        <img src="public/images/portraits/portraitsimage003.jpg" alt="Child Portrait Shoot" title="Child Portrait Shoot">
+        <img src="public/images/portraits/portraitsimage1.jpg" alt="Studio Portrait Shoot" title="Studio Portrait Shoot">
+        <img src="public/images/portraits/portraitsimage2.jpg" alt="Bridal Studio Shoot" title="Bridal Studio Shoot">
+        <img src="public/images/portraits/portraitsimage3.jpg" alt="Child Portrait Shoot" title="Child Portrait Shoot">
       </div>
         <p>JellyBean Photography can capture fun and exciting times in the studio either indiviually or groups. I normally shoot on a white background but can accomodate black or grey backgrounds too. We can also shoot off location either at the clients home or we can shoot outdoors if client prefers.</p>
         <h3>Package and Pricing</h3>

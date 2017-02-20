@@ -8,9 +8,9 @@
         <h1>Events Services...</h1>
         <h2>Festivals, Party, Celebration, Motorsport and Corporate.</h2>
         <div id="imageblock">
-          <img src="public/images/events/eventsimage001.jpg" alt="Wedding Party Band Shoot" title="Wedding Party Band Shoot">
-          <img src="public/images/events/eventsimage002.jpg" alt="Music Event Shoot" title="Music Event Shoot">
-          <img src="public/images/events/eventsimage003.jpg" alt="Charity Event Shoot" title="Charity Event Shoot">
+          <img src="public/images/events/eventsimage1.jpg" alt="Wedding Party Band Shoot" title="Wedding Party Band Shoot">
+          <img src="public/images/events/eventsimage2.jpg" alt="Music Event Shoot" title="Music Event Shoot">
+          <img src="public/images/events/eventsimage3.jpg" alt="Charity Event Shoot" title="Charity Event Shoot">
         </div>
         <p>JellyBean Photography can cover all types of events from celebrations to birthday's to corporate and charity events too.</p>
           <h3>Package and Pricing</h3>

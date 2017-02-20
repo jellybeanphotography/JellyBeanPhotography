@@ -8,9 +8,9 @@
           <h1>Wedding Services...</h1>
           <h2>Tailored wedding packages.</h2>
           <div id="imageblock">
-            <img src="public/images/wedding/weddingimage001.jpg" alt="Ceremony Image" title="Ceremony Image">
-            <img src="public/images/wedding/weddingimage002.jpg" alt="Cake Image" title="Cake Image">
-            <img src="public/images/wedding/weddingimage003.jpg" alt="Rings Shot" title="Rings Shot">
+            <img src="public/images/wedding/weddingimage1.jpg" alt="Ceremony Image" title="Ceremony Image">
+            <img src="public/images/wedding/weddingimage2.jpg" alt="Cake Image" title="Cake Image">
+            <img src="public/images/wedding/weddingimage3.jpg" alt="Rings Shot" title="Rings Shot">
           </div>
           <p>JellyBean Photography offers a modern and relaxed style of photography ensuring that your special day is captured to the highest possibly standard to provide memories for years to come. JellyBean Photography provide a friendly, proffesional photographer to make sure that you receive the best service to the whole process as easy as possible.</p>
           <h3>Packages and Pricing</h3>
