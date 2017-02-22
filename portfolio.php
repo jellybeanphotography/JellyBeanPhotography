@@ -2,7 +2,7 @@
 
 <body>
   <?php include "partials/header.php"; ?>
-
+<style>.fullscreenimage{background-image: url(/public/images/fullscreenimage/portfolio.jpg);}</style>
       <section>
         <h1>Portfolio</h1>
         <h2>The Portfolio of Scott Taylor at JellyBean Photography.</h2>
