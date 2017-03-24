@@ -1,3 +1,4 @@
+<?php $pagetitle = "Our Blog"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

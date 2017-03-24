@@ -1,3 +1,4 @@
+<?php $pagetitle = "Freelance Photographer"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

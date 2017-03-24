@@ -1,3 +1,4 @@
+<?php $pagetitle = "Thank you for your enquiry"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

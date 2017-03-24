@@ -1,3 +1,4 @@
+<?php $pagetitle = "Portfolio"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

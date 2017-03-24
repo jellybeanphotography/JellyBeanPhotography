@@ -1,3 +1,4 @@
+<?php $pagetitle = "Contact Us"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>
