@@ -367,7 +367,7 @@ button, input {
     }
 }
 
-@media screen and (max-width:860px) {
+@media screen and (max-width:1024px) {
     .servicesiconscontainer {
         display: inline-block;
         text-align: center
