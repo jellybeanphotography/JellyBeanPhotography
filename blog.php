@@ -1,4 +1,5 @@
 <?php $pagetitle = "Our Blog"; ?>
+<?php $description = "All of our social media blogs"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

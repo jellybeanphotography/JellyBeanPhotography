@@ -1,4 +1,5 @@
 <?php $pagetitle = "Contact Us"; ?>
+<?php $description = "Get in-touch with JellyBean Photography"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

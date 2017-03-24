@@ -1,4 +1,5 @@
 <?php $pagetitle = "Portfolio"; ?>
+<?php $description = "View JellyBean Photography's Portfolio"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

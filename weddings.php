@@ -1,4 +1,5 @@
 <?php $pagetitle = "Wedding Photography"; ?>
+<?php $description = "Wedding Photographer"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

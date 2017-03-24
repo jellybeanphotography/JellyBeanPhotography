@@ -1,5 +1,6 @@
 
-<?php $pagetitle = "About Us"; ?>
+<?php $pagetitle = "Who we are"; ?>
+<?php $description = "All about JellyBean Photography and Scott Taylor"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

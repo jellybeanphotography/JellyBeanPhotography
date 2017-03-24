@@ -1,4 +1,5 @@
 <?php $pagetitle = "Services We Offer"; ?>
+<?php $description = "What we can offer you!"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

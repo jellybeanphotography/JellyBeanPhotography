@@ -1,4 +1,5 @@
 <?php $pagetitle = "Freelance Photographer"; ?>
+<?php $description = "Offering a unique photography packages for all areas of photography"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>

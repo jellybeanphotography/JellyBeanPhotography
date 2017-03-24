@@ -1,4 +1,5 @@
 <?php $pagetitle = "Thank you for your enquiry"; ?>
+<?php $description = "Thank you for your enquiry, we will be in-touch shortly"; ?>
 <?php include "partials/head.php"; ?>
 
 <body>
