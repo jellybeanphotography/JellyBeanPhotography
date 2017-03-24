@@ -25,7 +25,9 @@
       <p>Our Instagram link is used for our everyday photographs and to share what is going on in and around JellyBean Photography and Photography in general.</p>
       <p><a href="https://www.flickr.com/photos/jellybeanphotographer/albums" class="footerlink" target="_blank">Flickr</a> | <a href="https://www.instagram.com/jellybeanphotography.me.uk/" class="footerlink" target="_blank">Instagram</a></p>
     <div class="imageseperator2"></div>
-    <center><iframe width="640" height="360" src="https://www.youtube.com/embed/FMuh_nGwopE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></center>
+    <div class="centerdivs">
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/FMuh_nGwopE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    </div>
   </section>
 
   <?php include "partials/footer.php"; ?>
