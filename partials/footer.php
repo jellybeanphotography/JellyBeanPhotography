@@ -4,5 +4,5 @@
   t: <a href="tel:+447740276289" class="footerlink">07740 276289</a><br>
   e: <a href="mailto:info@jellybeanphotography.me.uk" class="footerlink">info@jellybeanphotography.me.uk</a><br>
   w: <a href="https://www.jellybeanphotography.me.uk" class="footerlink" target="_blank">www.jellybeanphotography.me.uk</a><br>
-  f: <a href="https://www.facebook.com/JellyBeanPhotographer" class="footerlink" target="_blank">JellyBean Photography Facebook</a><br></p>
+  f: <a href="https://www.facebook.com/JellyBeanPhotography.me.uk" class="footerlink" target="_blank">JellyBean Photography Facebook</a><br></p>
 </footer>

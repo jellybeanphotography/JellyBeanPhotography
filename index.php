@@ -17,7 +17,7 @@
       <div class="imageseperator0"></div>
       <h3>Social Media</h3>
       <p>Keep up to date with everything Photography at JellyBean Photography on our social media sites.</p>
-      <p><a href="https://www.facebook.com/JellyBeanPhotographer" class="footerlink" target="_blank">Facebook</a> | <a href="https://twitter.com/scottatJBP" class="footerlink" target="_blank">Twitter</a> | <a href="https://www.instagram.com/jellybeanphotography.me.uk/" class="footerlink" target="_blank">Instagram</a></p>
+      <p><a href="https://www.facebook.com/JellyBeanPhotography.me.uk" class="footerlink" target="_blank">Facebook</a> | <a href="https://twitter.com/scottatJBP" class="footerlink" target="_blank">Twitter</a> | <a href="https://www.instagram.com/jellybeanphotography.me.uk/" class="footerlink" target="_blank">Instagram</a></p>
       <div class="imageseperator1"></div>
       <h3>Recent Work</h3>
       <p>You can find more of JellyBean Photography work using the links below.</p>
